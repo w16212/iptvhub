@@ -5,7 +5,7 @@ http://iptv.tvfix.org/hls/jade2.m3u8
 http://iptv.tvfix.org/hls/jade.m3u8
 #EXTINF:-1 ,TVB News 無線新聞
 http://iptv.tvfix.org/hls/inews.m3u8
-#EXTINF:-1 ,香港開電視
+#EXTINF:-1 ,Open TV 香港開電視
 http://iptv.tvfix.org/hls/opentv.m3u8
 #EXTINF:-1 ,ViuTV
 http://iptv.tvfix.org/hls/viutv.m3u8
@@ -13,9 +13,9 @@ http://iptv.tvfix.org/hls/viutv.m3u8
 http://iptv.tvfix.org/hls/viutv2.m3u8
 #EXTINF:-1 ,ViuTV6
 http://iptv.tvfix.org/hls/viutv6.m3u8
-#EXTINF:-1 ,無線財經資訊台海外版
+#EXTINF:-1 ,TVB Finance (Oversea)無線財經資訊台海外版
 http://iptv.tvfix.org/hls/financenhk.m3u8
-#EXTINF:-1 ,明珠台
+#EXTINF:-1 ,TVB Pearl 明珠台
 http://iptv.tvfix.org/hls/pearl.m3u8
 #EXTINF:-1 ,J2
 http://iptv.tvfix.org/hls/j2.m3u8
@@ -23,5 +23,5 @@ http://iptv.tvfix.org/hls/j2.m3u8
 http://iptv.tvfix.org/hls/rthk31.m3u8
 #EXTINF:-1 ,RTHK32
 http://iptv.tvfix.org/hls/rthk32.m3u8
-#EXTINF:-1 ,香港國際財經台
+#EXTINF:-1 ,HK Intl Biz Channel Bloomberg 香港國際財經台
 http://iptv.tvfix.org/hls/hkibc.m3u8
