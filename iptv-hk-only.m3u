@@ -1,27 +1,27 @@
 #EXTM3U
-#EXTINF:-1 ,翡翠台
+#EXTINF:-1 ,TVB Jade 翡翠台
 http://iptv.tvfix.org/hls/jade2.m3u8
-#EXTINF:-1 ,翡翠台
+#EXTINF:-1 ,TVB Jade 翡翠台
 http://iptv.tvfix.org/hls/jade.m3u8
-#EXTINF:-1 ,香港國際財經台
-http://iptv.tvfix.org/hls/hkibc.m3u8
-#EXTINF:-1 ,香港開電視
-http://iptv.tvfix.org/hls/opentv.m3u8
 #EXTINF:-1 ,TVB News 無線新聞
 http://iptv.tvfix.org/hls/inews.m3u8
-#EXTINF:-1 ,無線財經資訊台海外版
-http://iptv.tvfix.org/hls/financenhk.m3u8
-#EXTINF:-1 ,明珠台
-http://iptv.tvfix.org/hls/pearl.m3u8
-#EXTINF:-1 ,J2
-http://iptv.tvfix.org/hls/j2.m3u8
+#EXTINF:-1 ,香港開電視
+http://iptv.tvfix.org/hls/opentv.m3u8
 #EXTINF:-1 ,ViuTV
 http://iptv.tvfix.org/hls/viutv.m3u8
 #EXTINF:-1 ,ViuTV(第2聲道)
 http://iptv.tvfix.org/hls/viutv2.m3u8
 #EXTINF:-1 ,ViuTV6
 http://iptv.tvfix.org/hls/viutv6.m3u8
+#EXTINF:-1 ,無線財經資訊台海外版
+http://iptv.tvfix.org/hls/financenhk.m3u8
+#EXTINF:-1 ,明珠台
+http://iptv.tvfix.org/hls/pearl.m3u8
+#EXTINF:-1 ,J2
+http://iptv.tvfix.org/hls/j2.m3u8
 #EXTINF:-1 ,RTHK31
 http://iptv.tvfix.org/hls/rthk31.m3u8
 #EXTINF:-1 ,RTHK32
 http://iptv.tvfix.org/hls/rthk32.m3u8
+#EXTINF:-1 ,香港國際財經台
+http://iptv.tvfix.org/hls/hkibc.m3u8
