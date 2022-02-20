@@ -8,14 +8,14 @@ http://iptv.tvfix.org/hls/inews.m3u8
 #EXTINF:-1 ,TVB Classics 無線經典台
 http://iptv.tvfix.org/hls/tvbjd.m3u8
 #EXTINF:-1 ,Now LIVE Now 直播
-http://206.119.173.184/tv/js.php?id=20
-#EXTINF:-1 ,Cable News 有線新聞台
+http://livetv.dnsfor.me:80/channel.4.m3u8
+#EXTINF:-1 ,(Beta) Cable News 有線新聞台
 http://gslb.cdn.hk.chinamobile.com/live/6aec56586c324021927637a750c1811e/cb76365be43b4ba598eb2f2ef3cffcd9-3.m3u8
-#EXTINF:-1 ,Cable News 2 有線新聞台
+#EXTINF:-1 ,(Beta) Cable News 2 有線新聞台
 https://api.leonardpark.dev/live/icable/109
-#EXTINF:-1 ,Cable News LIVE 有線直播新聞台
+#EXTINF:-1 ,(Beta) Cable News LIVE 有線直播新聞台
 https://api.leonardpark.dev/live/icable/110
-#EXTINF:-1 ,Cable News Finance 有線財經資訊台
+#EXTINF:-1 ,(Beta) Cable News Finance 有線財經資訊台
 https://api.leonardpark.dev/live/icable/108
 #EXTINF:-1 ,Open TV 香港開電視
 http://iptv.tvfix.org/hls/opentv.m3u8
